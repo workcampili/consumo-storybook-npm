@@ -4245,6 +4245,23 @@ duplexify@^3.4.2, duplexify@^3.6.0:
     readable-stream "^2.0.0"
     stream-shift "^1.0.0"
 
+eac-my-storybook-components@^1.1.0:
+  version "1.1.0"
+  resolved "https://registry.yarnpkg.com/eac-my-storybook-components/-/eac-my-storybook-components-1.1.0.tgz#3c55b330ca7925a0e72130243f4bacfa355ebaa6"
+  integrity sha512-MznT9ZDoc4rH641gUcctMZRNtUG7ErL/lUTCit2H1hZyXIMk2gs5Qon/x7EHAkaQ3MKCDWJtXvueV0A/H1Pw7g==
+  dependencies:
+    "@testing-library/jest-dom" "^5.11.4"
+    "@testing-library/react" "^11.1.0"
+    "@testing-library/user-event" "^12.1.10"
+    "@types/jest" "^26.0.15"
+    "@types/node" "^12.0.0"
+    "@types/react" "^17.0.0"
+    "@types/react-dom" "^17.0.0"
+    react "^17.0.2"
+    react-dom "^17.0.2"
+    typescript "^4.1.2"
+    web-vitals "^1.0.1"
+
 ecc-jsbn@~0.1.1:
   version "0.1.2"
   resolved "https://registry.yarnpkg.com/ecc-jsbn/-/ecc-jsbn-0.1.2.tgz#3a83a904e54353287874c564b7549386849a98c9"
